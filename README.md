@@ -1,6 +1,6 @@
 ### Hi there :raised_hands:, I am Kellyn!
 
-- 🔭 I’m currently learning/working on a zillow clone project of which, the backend is stored on the blockchain.
+- 🔭 I’m currently learning/working on a amazon clone project (dappazon) of which, the backend is stored on the blockchain.
 
 - 🌱 I hope to complete my learning of Blockchain, Solidity and Full Stack Web3 Development with JavaScript in 3 months time (2 April 2024). OPEN TO INTERNSHIPS NOW. lfg.
 
