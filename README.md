@@ -1,17 +1,34 @@
-### Hi there :raised_hands:, I am Kellyn! 
+<div align="justify">
 
-- ⚡ Fun fact: My passion for decentralised finance in the last two years got me switching from an end user to now a builder. Slowly but surely, I will get there :muscle:.
+### :wave: Hi there, I'm Kellyn!
 
-- :soon: How I am getting there:
+---
 
-- :small_blue_diamond: Got myself enrolled into GA bootcamp at start of 2023. Ask me anything about my self-learning journey + the roller coaster journey I had at GA bootcamp (still reminiscing about the intense, fun-filled and priceless friendships made) + two of my favourite projects I had built during my time there:
+#### :star: About Me
+I'm deeply fascinated by the potential of decentralized finance, a passion that sparked in 2021. With a bold leap into the unknown, I embarked on a journey from zero into tech. My milestone was completing a Software Engineering bootcamp at General Assembly in 2023. Here's a glimpse into some of the exciting projects I've worked on:
 
-- :small_blue_diamond: My virgin project of my life: I have experimented on working on a classic game, Connect 4, and endeavoured to add another special mode to it. This special mode involves creating a spaceship on top of the grids, and with any key press, the coloured piece will drop down to the next available slot. Try both game modes here: [Connect 4](https://4game.netlify.app/)
+---
 
-- :small_blue_diamond: I have created [massDJ](https://github.com/kellynwong/massDJ) as my final project, which was hugely inspired by me wanting to have my choice of songs whenever I vist a restaurant for meals (you know how some restaurants are always playing some songs on repeat, or simply, the vibes are just wrong for the occasion).
+#### :rocket: My Projects
 
-- :small_orange_diamond: I’m currently learning/working on a zillow clone project (millow) and an amazon clone project (dappazon) of which, both backends are stored on the blockchain.
+- **Connect 4 with a Twist**: My debut project revamps the classic Connect 4 game. I added a unique mode where players command a spaceship to drop colored pieces into play. Check out both classic and special modes [here](https://4game.netlify.app/).
 
-- :small_orange_diamond: I hope to complete my learning of Blockchain, Solidity and Full Stack Web3 Development with JavaScript in 3 months time (target 2 April 2024).
+- **massDJ**: Inspired by my love for music and a desire to personalize restaurant playlists, massDJ was born as my capstone project. It's a tool that lets users control the music vibe in eateries. Discover more about massDJ on [GitHub](https://github.com/kellynwong/massDJ).
 
-- :small_orange_diamond: Meanwhile I am open to internships, LFG! 
+---
+
+#### :bulb: What I'm Doing Now
+
+- **Web3 Development**: Currently, I'm diving deep into Blockchain, Solidity, and Full Stack Web3 Development using JavaScript and React. My goal is to master these by April 2024.
+
+- **Seeking Internships**: I'm on the lookout for internship opportunities in Web3 development. I believe in learning by doing, and what better way than to be part of a dynamic team?
+
+- **Ongoing Projects**: My learning journey continues as I am learning how to build a blockchain-based Zillow clone (millow) and an Amazon clone (dappazon). Both projects feature backends built on the blockchain, increasing my knowledge in decentralized app development.
+
+---
+
+#### :email: Let's Connect!
+
+I'm always open to connecting with fellow tech enthusiasts and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kellyn-wong) or follow my journey on [GitHub](https://github.com/kellynwong).
+
+</div>
