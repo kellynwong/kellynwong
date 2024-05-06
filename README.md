@@ -19,11 +19,9 @@ I'm deeply fascinated by the potential of decentralized finance, a passion that 
 
 #### :bulb: What I'm Doing Now
 
-- **Web3 Development**: Currently, I'm diving deep into Blockchain, Solidity, and Full Stack Web3 Development using JavaScript and React. My goal is to master these by April 2024.
+- **Web3 Development**: Currently, I'm solidifying my learnings (from the last few months) by building side projects using the full stack - Solidity, Ether.js, Web3.js, Hardhat, Node.js, which includes learning and writing tests.
 
-- **Seeking Internships**: I'm on the lookout for internship opportunities in Web3 development. I believe in learning by doing, and what better way than to be part of a dynamic team?
-
-- **Ongoing Projects**: My learning journey continues as I am learning how to build a blockchain-based Zillow clone (millow) and an Amazon clone (dappazon). Both projects feature backends built on the blockchain, increasing my knowledge in decentralized app development.
+- **Seeking Job Opportunities**: I'm on the lookout for job opportunities in Web3 development. I believe in learning by doing, and what better way than to be part of a dynamic team?
 
 ---
 
