@@ -5,7 +5,7 @@
 ---
 
 #### :star: About Me
-I’m a Software Engineer at [Angu Labs](https://angu-labs.com), where I work on developing full stack decentralized applications (dApps) and experimenting with new blockchain technologies. Since discovering decentralized finance in 2021, I’ve been fascinated with the potential of Web3. I completed a Software Engineering bootcamp at General Assembly in 2023 and have been steadily building my skills ever since. 
+I’m a Software Engineer at [Angu Labs](https://angulabs.com), where I work on developing full stack decentralized applications (dApps) and experimenting with new blockchain technologies. Since discovering decentralized finance in 2021, I’ve been fascinated with the potential of Web3. I completed a Software Engineering bootcamp at General Assembly in 2023 and have been steadily building my skills ever since. 
 
 I am most interested in DeFi, DePIN, and the practical applications of ZK Proofs.
 
